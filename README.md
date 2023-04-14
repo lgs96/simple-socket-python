@@ -45,4 +45,3 @@ If you find a bug or have an idea for a new feature, feel free to contribute to 
 These scripts were inspired by the following resources:
 
 - Python Socket Programming Tutorial by Real Python: https://realpython.com/python-sockets/
-- Emulate a Video Frame in Python by Romin Irani: https://rominirani.com/emulate-video-frame-in-python-8b3e6376d5c7
